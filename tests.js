@@ -15,3 +15,4 @@ if (index.height === "70") {
 }
 
 console.log(name)
+console.log(height)
